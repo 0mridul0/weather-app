@@ -1,2 +1,2 @@
-# weather-app
-Weather API project
+# Weather-App
+ API Based Weather App
